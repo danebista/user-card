@@ -1,5 +1,5 @@
 # user-card
 
-# React app implemented to search a user and display users in a card format.
+# Static user card page Implemented in react js and deployed to github
 
 https://danebista.github.io/user-card/
